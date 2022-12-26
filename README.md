@@ -4,7 +4,7 @@
 1. git 다운로드 : https://git-scm.com/download/mac 
 2. 맥에서 처음설치한다면 <br>
 3. 우선 , git 사이트에서 Downloads 에 가면 "Homebrew" 를 찾으세요. 이 단어를 클릭하면
-<br><img width="394" alt="스크린샷 2022-12-26 오후 12 01 10" src="https://user-images.githubusercontent.com/48478079/209494263-e7c23c44-64c7-4764-b2f8-44f77225f9b7.png"> 화면이 보입니다
+<br><img width="394" alt="스크린샷 2022-12-26 오후 12 01 10" src="https://user-images.githubusercontent.com/48478079/209494263-e7c23c44-64c7-4764-b2f8-44f77225f9b7.png" width="100"> 화면이 보입니다
 4. 여기서 아래쪽에 있는 
 5. 
 6. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
