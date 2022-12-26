@@ -3,7 +3,7 @@
 1. https://git-scm.com/download/mac 접속합니다
 2. 맥에서 처음설치한다면,
 3. 아래 이미지를 찾으세요 <br><img width="338" alt="스크린샷 2022-12-26 오전 11 43 46" src="https://user-images.githubusercontent.com/48478079/209492952-be1522a0-0b1a-4b58-bf68-3ac9ac417a95.png">
-4. 우선 , 위의 이미지에 있는 하늘색의  "Homebrew" 를 찾아 클릭하면<br>
+4. 우선 , 위의 이미지에 있는 <span style="background-color:#ff000">하늘색의  "Homebrew" </span>를 찾아 클릭하면<br>
 <br><img width="200" alt="스크린샷 2022-12-26 오후 12 01 10" src="https://user-images.githubusercontent.com/48478079/209494263-e7c23c44-64c7-4764-b2f8-44f77225f9b7.png"> 
 <br> 화면이 보입니다 여기서 한국어를 선택하시면 한글로 설명된 문장들이 나옵니다. "Homebrew 설치하기" 아래쪽에 
 ```
