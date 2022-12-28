@@ -20,7 +20,7 @@
 
 <kbd>cmd</kbd>
 <kbd> k </kbd>  command 창  
-<kbd> / </kbd> 
+<kbd> / </kbd>  Search 창 열기   
 
 <kbd>?</kbd> : 단축키를 안내
 ```diff
