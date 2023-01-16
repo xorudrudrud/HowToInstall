@@ -37,6 +37,7 @@
 - find / -name '*.js' ( 루트디렉토리에서 부터 확장자가 js 인 모든 파일을 찾아달라 )
 - find ./test -name "fil*". ( /test 디렉토리안의 fil로 시작하는 모든 파일을 찾아달라)  
 
+## 변경된 내용이 여기에 
 
 
 <span style="color:purple; font-size:80%"> 🌈 아직 작업중입니다. 시간이 될때마다 올릴 예정입니다. 자료는 있지만 정리해서 올리는데 시간이 걸리네요</span>
