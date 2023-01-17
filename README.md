@@ -6,6 +6,9 @@
 <pre> 블록처럼 색상이 입혀집니다  </pre>   
 
  `형광색처럼`
+ 
+ ==gdddd==.  
+ <span style="background:'red'">dddd</span>.  
 
 
 [Google] : http://www.google.com.   
