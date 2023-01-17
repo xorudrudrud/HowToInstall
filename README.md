@@ -1,5 +1,5 @@
-# 원격저장소의 모든 브랜치를 로컬로 다운로드 하는 것
-# 다운로드 후 다시 원격으로 push
+## 원격저장소의 모든 브랜치를 로컬로 다운로드 하는 것
+## 다운로드 후 다시 원격으로 push
 
 - git clone https://github.com/PhoebeYoon/HowToInstall.git
 - ls 
@@ -14,4 +14,4 @@
 - /HowToInstall /git_mac_install / git push
 
 원격저장소를 확인해 본다 
-위의 실습에서는 
+위의 실습에서는 'git_mac_install' 브랜치의 마지막줄에 변경된 내용이 위의 실습을 통해 만들어진것이다
