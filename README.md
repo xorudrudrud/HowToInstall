@@ -7,9 +7,6 @@
 
  `형광색처럼`
  
- ==gdddd==.  
- <span style="background:'red'">dddd</span>.  
-
 
 [Google] : http://www.google.com.   
 외부 링크는 [구글](https://www.google.com )으로 적습니다 ( '[]'와 '()' 사이에 공백은 제거)
